@@ -1,0 +1,3 @@
+SELECT NAME FROM Employee WHERE
+salary > 2000 AND
+MONTHS < 10 ;
